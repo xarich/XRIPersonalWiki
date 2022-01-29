@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-29T11:06:00.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="W23GpC7HEaxCAFX1kLge" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-29T11:10:03.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="iwKfMkvRMXRbA3y3cZXk" version="16.4.7" type="github">
   <diagram id="4UVPahDyf4iu8To8ODbl" name="Page-1">
     <mxGraphModel dx="1106" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="TSUCbPAbVoKPbsh4vDsl-1" value="Excel File Upload" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="32" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TSUCbPAbVoKPbsh4vDsl-2" value="Attente&lt;br&gt;+ Rapport&lt;br&gt;(ContrÃ´le de l&#39;Excel)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TSUCbPAbVoKPbsh4vDsl-2" value="Attente&lt;br&gt;+ Rapport&lt;br&gt;(ContrÃ´le du format Excel)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="361" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TSUCbPAbVoKPbsh4vDsl-3" value="&lt;div&gt;&lt;span&gt;Rapports&lt;/span&gt;&lt;/div&gt;(Analyse +&amp;nbsp;Import Ã  0)&lt;br&gt;&lt;br&gt;+ Excel &quot;ParseResults&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -16,10 +16,10 @@
         <mxCell id="PQ5lRCYeLyrYNy7Ynxfq-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TSUCbPAbVoKPbsh4vDsl-4" target="TSUCbPAbVoKPbsh4vDsl-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TSUCbPAbVoKPbsh4vDsl-4" value="&lt;div&gt;&lt;span&gt;Rapports&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;(Analyse +&amp;nbsp;Import)&lt;br&gt;&lt;br&gt;+ Excel &quot;ImportResults&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="TSUCbPAbVoKPbsh4vDsl-4" value="&lt;div&gt;&lt;span&gt;Rapports&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;(Analyse +&amp;nbsp;Imports)&lt;br&gt;&lt;br&gt;+ Excel &quot;ImportResults&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="460" y="507" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TSUCbPAbVoKPbsh4vDsl-7" value="Fin 1&lt;br&gt;Rejet" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="TSUCbPAbVoKPbsh4vDsl-7" value="âŒRejet&lt;br&gt;(Fin 1)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="620" y="130" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TSUCbPAbVoKPbsh4vDsl-9" value="Fichier Invalide&lt;br&gt;(Action &quot;Terminer&quot;)" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="TSUCbPAbVoKPbsh4vDsl-2" target="TSUCbPAbVoKPbsh4vDsl-7" edge="1">
@@ -28,7 +28,7 @@
             <mxPoint x="590" y="169.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TSUCbPAbVoKPbsh4vDsl-19" value="Structure Excel Valide&lt;br&gt;(Action &quot;Suivant&quot;)" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="TSUCbPAbVoKPbsh4vDsl-23" edge="1">
+        <mxCell id="TSUCbPAbVoKPbsh4vDsl-19" value="Format Excel Valide&lt;br&gt;(Action &quot;Suivant&quot;)" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="TSUCbPAbVoKPbsh4vDsl-23" edge="1">
           <mxGeometry x="-0.1667" relative="1" as="geometry">
             <mxPoint x="420" y="200" as="sourcePoint" />
             <mxPoint x="421" y="290" as="targetPoint" />
@@ -50,10 +50,10 @@
             <mxPoint x="440" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TSUCbPAbVoKPbsh4vDsl-30" value="Fin 3&lt;br&gt;SuccÃ¨s" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="TSUCbPAbVoKPbsh4vDsl-30" value="âœ…SuccÃ¨s&lt;br&gt;(Fin 3)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="710" y="507" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TSUCbPAbVoKPbsh4vDsl-31" value="Fin 2&lt;br&gt;Erreur" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="TSUCbPAbVoKPbsh4vDsl-31" value="í ½íº«Erreur&lt;br&gt;(Fin 2)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="80" y="507" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TSUCbPAbVoKPbsh4vDsl-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TSUCbPAbVoKPbsh4vDsl-26" target="TSUCbPAbVoKPbsh4vDsl-24" edge="1">
