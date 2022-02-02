@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-02-02T15:50:17.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="7luj-Fy8RbLzOMkM26XO" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-02T19:06:59.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="QNHaGQeit35RRwkgSbAY" version="16.5.3" type="github">
   <diagram id="4UVPahDyf4iu8To8ODbl" name="Page-1">
-    <mxGraphModel dx="922" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TSUCbPAbVoKPbsh4vDsl-1" value="Excel File Upload" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="32" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TSUCbPAbVoKPbsh4vDsl-2" value="Attente í ½íº§&lt;br&gt;+ Rapport&lt;br&gt;(VÃ©rification du format Excel)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TSUCbPAbVoKPbsh4vDsl-2" value="Attente&lt;br&gt;+ Rapport&lt;br&gt;(VÃ©rification du format Excel)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="361" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TSUCbPAbVoKPbsh4vDsl-3" value="&lt;div&gt;&lt;span&gt;Rapports&lt;/span&gt;&lt;/div&gt;(Analyse +&amp;nbsp;Import Ã  0)&lt;br&gt;&lt;br&gt;+ Excel &quot;ParseResults&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -43,7 +43,7 @@
         <mxCell id="TSUCbPAbVoKPbsh4vDsl-24" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Excel&lt;br&gt;100% OK ?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="420" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TSUCbPAbVoKPbsh4vDsl-26" value="Attente í ½íº§&lt;br&gt;Traitement en cours&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TSUCbPAbVoKPbsh4vDsl-26" value="Attente&lt;br&gt;Traitement en cours&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TSUCbPAbVoKPbsh4vDsl-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="TSUCbPAbVoKPbsh4vDsl-23" target="TSUCbPAbVoKPbsh4vDsl-26" edge="1">
@@ -58,7 +58,7 @@
         <mxCell id="TSUCbPAbVoKPbsh4vDsl-30" value="âœ…&lt;b&gt;SuccÃ¨s&lt;/b&gt;&lt;br&gt;(Fin 3)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="710" y="590.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TSUCbPAbVoKPbsh4vDsl-31" value="&lt;b&gt;í ½í´§A corriger&lt;/b&gt;&lt;br&gt;(Fin 2)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="TSUCbPAbVoKPbsh4vDsl-31" value="&lt;b&gt;í ¾í·°A corriger&lt;/b&gt;&lt;br&gt;(Fin 2)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="100" y="590.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TSUCbPAbVoKPbsh4vDsl-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TSUCbPAbVoKPbsh4vDsl-26" target="TSUCbPAbVoKPbsh4vDsl-24" edge="1">
@@ -156,6 +156,12 @@
         </mxCell>
         <mxCell id="HX-YwnKvqhDAjYfnIiUI-24" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 7px&quot;&gt;Lancer la vÃ©rification&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#999999;fontColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="380" y="90" width="80" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="Jls3OtoX2Lpwt2niCwrY-1" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KICAgIDxwYXRoIGZpbGwtb3BhY2l0eT0iLjkiIGQ9Ik0yMy45OSA0Yy0xMS4wNSAwLTE5Ljk5IDguOTUtMTkuOTkgMjBzOC45NCAyMCAxOS45OSAyMGMxMS4wNSAwIDIwLjAxLTguOTUgMjAuMDEtMjBzLTguOTYtMjAtMjAuMDEtMjB6bS4wMSAzNmMtOC44NCAwLTE2LTcuMTYtMTYtMTZzNy4xNi0xNiAxNi0xNiAxNiA3LjE2IDE2IDE2LTcuMTYgMTYtMTYgMTZ6Ii8+CiAgICA8cGF0aCBkPSJNMCAwaDQ4djQ4aC00OHoiIGZpbGw9Im5vbmUiLz4KICAgIDxwYXRoIGZpbGwtb3BhY2l0eT0iLjkiIGQ9Ik0yNSAxNGgtM3YxMmwxMC40OSA2LjMgMS41MS0yLjQ2LTktNS4zNHoiLz4KPC9zdmc+" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jls3OtoX2Lpwt2niCwrY-2" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KICAgIDxwYXRoIGZpbGwtb3BhY2l0eT0iLjkiIGQ9Ik0yMy45OSA0Yy0xMS4wNSAwLTE5Ljk5IDguOTUtMTkuOTkgMjBzOC45NCAyMCAxOS45OSAyMGMxMS4wNSAwIDIwLjAxLTguOTUgMjAuMDEtMjBzLTguOTYtMjAtMjAuMDEtMjB6bS4wMSAzNmMtOC44NCAwLTE2LTcuMTYtMTYtMTZzNy4xNi0xNiAxNi0xNiAxNiA3LjE2IDE2IDE2LTcuMTYgMTYtMTYgMTZ6Ii8+CiAgICA8cGF0aCBkPSJNMCAwaDQ4djQ4aC00OHoiIGZpbGw9Im5vbmUiLz4KICAgIDxwYXRoIGZpbGwtb3BhY2l0eT0iLjkiIGQ9Ik0yNSAxNGgtM3YxMmwxMC40OSA2LjMgMS41MS0yLjQ2LTktNS4zNHoiLz4KPC9zdmc+" vertex="1" parent="1">
+          <mxGeometry x="360" y="340" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
