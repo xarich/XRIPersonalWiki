@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-04T21:49:27.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="9F88CrX_qyNenpAGfXeG" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-04T22:12:15.595Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="qg1h6Yjg-xPGoBLtUIXO" version="16.5.3" type="github">
   <diagram id="4UVPahDyf4iu8To8ODbl" name="Page-1">
-    <mxGraphModel dx="763" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="922" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,12 +46,12 @@
         <mxCell id="TSUCbPAbVoKPbsh4vDsl-26" value="Attente&lt;br&gt;(Traitement en cours)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TSUCbPAbVoKPbsh4vDsl-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="TSUCbPAbVoKPbsh4vDsl-23" target="TSUCbPAbVoKPbsh4vDsl-26" edge="1">
+        <mxCell id="TSUCbPAbVoKPbsh4vDsl-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HX-YwnKvqhDAjYfnIiUI-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="300" as="sourcePoint" />
-            <mxPoint x="440" y="250" as="targetPoint" />
+            <mxPoint x="540" y="320" as="sourcePoint" />
+            <mxPoint x="420" y="340" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="320" />
+              <mxPoint x="420" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -165,6 +165,15 @@
         </mxCell>
         <mxCell id="DMQDrrK3bXKj25TeuVYA-2" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KICAgIDxwYXRoIGQ9Ik0wIDBoNDh2NDhoLTQ4eiIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTI0IDRjLTExLjA1IDAtMjAgOC45NS0yMCAyMHM4Ljk1IDIwIDIwIDIwIDIwLTguOTUgMjAtMjAtOC45NS0yMC0yMC0yMHptLTE2IDIwYzAtOC44NCA3LjE2LTE2IDE2LTE2IDMuNyAwIDcuMDkgMS4yNyA5LjggMy4zN2wtMjIuNDMgMjIuNDNjLTIuMS0yLjcxLTMuMzctNi4xLTMuMzctOS44em0xNiAxNmMtMy43IDAtNy4wOS0xLjI3LTkuOC0zLjM3bDIyLjQzLTIyLjQzYzIuMSAyLjcxIDMuMzcgNi4xIDMuMzcgOS44IDAgOC44NC03LjE2IDE2LTE2IDE2eiIvPgo8L3N2Zz4=;imageBackground=none;labelBorderColor=none;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="101" y="611" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DMQDrrK3bXKj25TeuVYA-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="260" width="310" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="DMQDrrK3bXKj25TeuVYA-6" value="&lt;p style=&quot;font-size: 9px&quot;&gt;&lt;i&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Ne poser la question que si la grille web contient au moins 1 saisie&amp;nbsp;&lt;br&gt;&lt;/i&gt;&lt;i&gt;(&amp;gt;= 1 ligne avec le statut &#39;En cours&#39; existe)&lt;/i&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;labelBorderColor=none;sketch=0;" vertex="1" parent="DMQDrrK3bXKj25TeuVYA-9">
+          <mxGeometry width="310" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="DMQDrrK3bXKj25TeuVYA-5" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KICAgIDxwYXRoIGQ9Ik0wIDBoNDh2NDhoLTQ4eiIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTI0IDRjLTExLjA0IDAtMjAgOC45NS0yMCAyMHM4Ljk2IDIwIDIwIDIwIDIwLTguOTUgMjAtMjAtOC45Ni0yMC0yMC0yMHptMiAzMGgtNHYtNGg0djR6bTAtOGgtNHYtMTJoNHYxMnoiLz4KPC9zdmc+;labelBorderColor=none;sketch=0;html=1;" vertex="1" parent="DMQDrrK3bXKj25TeuVYA-9">
+          <mxGeometry x="5.961538461538461" y="8" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
