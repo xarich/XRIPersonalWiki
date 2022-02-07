@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T12:00:50.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="ncoPbdQg7upsyPB3qH6b" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-07T12:01:35.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Yw6tvkVmZAnV90GUlhms" version="16.5.3" type="github">
   <diagram id="4UVPahDyf4iu8To8ODbl" name="Page-1">
     <mxGraphModel dx="922" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -178,7 +178,7 @@
         <mxCell id="djonJGLYD7yaMhUm2BC5-7" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="490" y="80.5" width="230" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="djonJGLYD7yaMhUm2BC5-8" value="&lt;p&gt;&lt;i&gt;&lt;font size=&quot;1&quot;&gt;La fin du transfert de fichier ...&lt;br&gt;lance automatiquement la Vérification&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;labelBorderColor=none;sketch=0;" vertex="1" parent="djonJGLYD7yaMhUm2BC5-7">
+        <mxCell id="djonJGLYD7yaMhUm2BC5-8" value="&lt;p&gt;&lt;i&gt;&lt;font size=&quot;1&quot;&gt;La fin du transfert de fichier&amp;nbsp;déclenche &lt;br&gt;automatiquement la Vérification&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;labelBorderColor=none;sketch=0;" vertex="1" parent="djonJGLYD7yaMhUm2BC5-7">
           <mxGeometry width="230" height="36" as="geometry" />
         </mxCell>
         <mxCell id="djonJGLYD7yaMhUm2BC5-9" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KICAgIDxwYXRoIGQ9Ik0wIDBoNDh2NDhoLTQ4eiIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTIyIDM0aDR2LTEyaC00djEyem0yLTMwYy0xMS4wNSAwLTIwIDguOTUtMjAgMjBzOC45NSAyMCAyMCAyMCAyMC04Ljk1IDIwLTIwLTguOTUtMjAtMjAtMjB6bTAgMzZjLTguODIgMC0xNi03LjE4LTE2LTE2czcuMTgtMTYgMTYtMTYgMTYgNy4xOCAxNiAxNi03LjE4IDE2LTE2IDE2em0tMi0yMmg0di00aC00djR6Ii8+Cjwvc3ZnPg==" vertex="1" parent="djonJGLYD7yaMhUm2BC5-7">
