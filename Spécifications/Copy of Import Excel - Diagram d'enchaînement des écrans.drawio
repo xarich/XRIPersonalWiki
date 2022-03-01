@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T09:14:08.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="0d4fbMfVl9Rr6WtuHQYt" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-01T07:02:31.669Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="0f6DeyCREgUXI8PreFt4" version="16.6.4" type="github">
   <diagram id="4UVPahDyf4iu8To8ODbl" name="Page-1">
-    <mxGraphModel dx="1106" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="1754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,7 +154,7 @@
             <mxPoint x="520" y="318.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zQP1MsFoER0FfWEiCymq-7" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Analyser le fichier :&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Conteneur + Contenu structure&amp;nbsp;&lt;/span&gt;(par le back)&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;(analyse &quot;hybride&quot; + re-vérifier l&#39;extension XLSX en&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;back)&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=17;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+        <mxCell id="zQP1MsFoER0FfWEiCymq-7" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Valider le fichier :&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Conteneur + Contenu structure&amp;nbsp;&lt;/span&gt;(par le back)&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;(analyse &quot;hybride&quot; + re-vérifier l&#39;extension XLSX en&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;back)&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=17;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="129" y="130" width="102" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zQP1MsFoER0FfWEiCymq-8" value="Analyser le contenu du fichier :&lt;br&gt;Données&amp;nbsp;(par le back)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=17;fontStyle=1;verticalAlign=middle;align=left;" parent="1" vertex="1">
