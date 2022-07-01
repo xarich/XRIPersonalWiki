@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T05:37:45.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="P0g7u_ZpsvUv7Hddg-rH" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-01T05:41:29.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="rxoTdbeUPAgksb5pdBt9" version="20.0.4" type="github">
   <diagram id="4UVPahDyf4iu8To8ODbl" name="Page-1">
-    <mxGraphModel dx="1122" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="1608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -243,6 +243,9 @@
         </mxCell>
         <mxCell id="5ig3M8u6u8kjrP-qXry9-1" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 7px&quot;&gt;Abandonner&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#999999;fontColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="465" y="90" width="50" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="5ig3M8u6u8kjrP-qXry9-2" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 7px&quot;&gt;Impporter&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#999999;fontColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="310" y="250" width="50" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
