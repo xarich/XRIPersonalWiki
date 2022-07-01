@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T06:15:50.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="PCaptxAonEycLoOlF69u" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-01T06:17:56.734Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SeKlTslsMZnP3YWH7TZu" version="20.0.4" type="github">
   <diagram id="4UVPahDyf4iu8To8ODbl" name="Page-1">
     <mxGraphModel dx="1122" dy="1608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,9 +117,6 @@
         </mxCell>
         <mxCell id="Jls3OtoX2Lpwt2niCwrY-1" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KICAgIDxwYXRoIGZpbGwtb3BhY2l0eT0iLjkiIGQ9Ik0yMy45OSA0Yy0xMS4wNSAwLTE5Ljk5IDguOTUtMTkuOTkgMjBzOC45NCAyMCAxOS45OSAyMGMxMS4wNSAwIDIwLjAxLTguOTUgMjAuMDEtMjBzLTguOTYtMjAtMjAuMDEtMjB6bS4wMSAzNmMtOC44NCAwLTE2LTcuMTYtMTYtMTZzNy4xNi0xNiAxNi0xNiAxNiA3LjE2IDE2IDE2LTcuMTYgMTYtMTYgMTZ6Ii8+CiAgICA8cGF0aCBkPSJNMCAwaDQ4djQ4aC00OHoiIGZpbGw9Im5vbmUiLz4KICAgIDxwYXRoIGZpbGwtb3BhY2l0eT0iLjkiIGQ9Ik0yNSAxNGgtM3YxMmwxMC40OSA2LjMgMS41MS0yLjQ2LTktNS4zNHoiLz4KPC9zdmc+" parent="1" vertex="1">
           <mxGeometry x="362" y="120" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="DMQDrrK3bXKj25TeuVYA-2" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KICAgIDxwYXRoIGQ9Ik0wIDBoNDh2NDhoLTQ4eiIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTI0IDRjLTExLjA1IDAtMjAgOC45NS0yMCAyMHM4Ljk1IDIwIDIwIDIwIDIwLTguOTUgMjAtMjAtOC45NS0yMC0yMC0yMHptLTE2IDIwYzAtOC44NCA3LjE2LTE2IDE2LTE2IDMuNyAwIDcuMDkgMS4yNyA5LjggMy4zN2wtMjIuNDMgMjIuNDNjLTIuMS0yLjcxLTMuMzctNi4xLTMuMzctOS44em0xNiAxNmMtMy43IDAtNy4wOS0xLjI3LTkuOC0zLjM3bDIyLjQzLTIyLjQzYzIuMSAyLjcxIDMuMzcgNi4xIDMuMzcgOS44IDAgOC44NC03LjE2IDE2LTE2IDE2eiIvPgo8L3N2Zz4=;imageBackground=none;labelBorderColor=none;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="523" y="590" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="djonJGLYD7yaMhUm2BC5-7" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="523" y="90" width="250" height="36" as="geometry" />
@@ -278,9 +275,6 @@
         </mxCell>
         <mxCell id="5ig3M8u6u8kjrP-qXry9-31" value="&lt;b&gt;Ordre de rÃ©alisation des chantiers&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="84.5" y="-49" width="200.5" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="tIOJqAECEOyoelKSxtmN-7" value="Test des Ã©moticons&lt;br&gt;í ½í´¥â°í ½íº«" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="408" y="585" width="161" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
