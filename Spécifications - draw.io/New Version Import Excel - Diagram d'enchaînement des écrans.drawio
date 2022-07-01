@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T06:17:56.734Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SeKlTslsMZnP3YWH7TZu" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-01T06:46:30.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ocdwSSGeImkHxQhyM-Jl" version="20.0.4" type="github">
   <diagram id="4UVPahDyf4iu8To8ODbl" name="Page-1">
-    <mxGraphModel dx="1122" dy="1608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1346" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -275,6 +275,9 @@
         </mxCell>
         <mxCell id="5ig3M8u6u8kjrP-qXry9-31" value="&lt;b&gt;Ordre de réalisation des chantiers&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="84.5" y="-49" width="200.5" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="1hFUY_O5tt1dHS9ZG_E1-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O9G0qqj6Nie969zO0wKp-25" target="O9G0qqj6Nie969zO0wKp-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
