@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T05:31:07.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="r9WgoAERLLBcLToDTrLN" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-01T05:37:45.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="P0g7u_ZpsvUv7Hddg-rH" version="20.0.4" type="github">
   <diagram id="4UVPahDyf4iu8To8ODbl" name="Page-1">
-    <mxGraphModel dx="928" dy="1572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,7 +122,7 @@
           <mxGeometry x="128" y="566" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="djonJGLYD7yaMhUm2BC5-7" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="510" y="80.5" width="230" height="36" as="geometry" />
+          <mxGeometry x="520" y="80.5" width="230" height="36" as="geometry" />
         </mxCell>
         <mxCell id="djonJGLYD7yaMhUm2BC5-8" value="&lt;p&gt;&lt;i&gt;&lt;font size=&quot;1&quot;&gt;La fin du transfert de fichier&amp;nbsp;enchaîne&lt;br&gt;automatiquement sur les traitements back&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;labelBorderColor=none;sketch=0;" parent="djonJGLYD7yaMhUm2BC5-7" vertex="1">
           <mxGeometry width="230" height="36" as="geometry" />
@@ -240,6 +240,9 @@
         </mxCell>
         <mxCell id="O9G0qqj6Nie969zO0wKp-33" value="Diagram d&#39;import Excel" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="375" y="-140" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5ig3M8u6u8kjrP-qXry9-1" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 7px&quot;&gt;Abandonner&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#999999;fontColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="465" y="90" width="50" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
