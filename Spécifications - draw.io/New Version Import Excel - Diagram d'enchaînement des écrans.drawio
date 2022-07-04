@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T08:54:10.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="nU8XEfCj-lFXkDLjBk_D" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T09:20:15.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="fCfVUZ46pkhfLxEv18B0" version="20.0.4" type="github">
   <diagram id="4UVPahDyf4iu8To8ODbl" name="Page-1">
-    <mxGraphModel dx="928" dy="1572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="928" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -221,7 +221,7 @@
           <mxGeometry x="625" y="-44" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="O9G0qqj6Nie969zO0wKp-28" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="623.8572090699672" y="19.213846153846163" width="23.077469289213944" height="23.077469289213944" as="geometry" />
+          <mxGeometry x="621.9272090699673" y="15.753846153846162" width="23.077469289213944" height="23.077469289213944" as="geometry" />
         </mxCell>
         <mxCell id="O9G0qqj6Nie969zO0wKp-29" value="Ecran contenant un Loader d&#39;attente" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="660" y="-49" width="110" height="29" as="geometry" />
@@ -230,7 +230,7 @@
           <mxGeometry x="660" y="-18" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O9G0qqj6Nie969zO0wKp-31" value="Lien cliquable&lt;br&gt;(pour + d&#39;infos)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="660" y="15.75" width="100" height="30" as="geometry" />
+          <mxGeometry x="660" y="12.29" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O9G0qqj6Nie969zO0wKp-32" value="Légende" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="620" y="-84" width="100" height="40" as="geometry" />
@@ -281,6 +281,18 @@
         </mxCell>
         <mxCell id="xgEhtyrbHG4YlomFDo-1-1" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 7px&quot;&gt;Abandonner&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=bottom;fillColor=#CCCCCC;strokeColor=#999999;fontColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="256" y="251" width="50" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="xgEhtyrbHG4YlomFDo-1-2" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 7px&quot;&gt;Abandonner&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=bottom;fillColor=#CCCCCC;strokeColor=#999999;fontColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="623" y="68.5" width="50" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="xgEhtyrbHG4YlomFDo-1-3" value="Bouton secondary" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="680" y="62" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgEhtyrbHG4YlomFDo-1-4" value="&lt;b style=&quot;font-size: 7px;&quot;&gt;Importer&lt;/b&gt;" style="rounded=1;html=1;strokeWidth=2;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#999999;fontColor=#3399FF;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="623" y="47.5" width="47" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="xgEhtyrbHG4YlomFDo-1-5" value="Bouton primary" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="680" y="41" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
